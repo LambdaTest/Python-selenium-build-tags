@@ -5,18 +5,16 @@
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
-[![TestMu AI](https://img.shields.io/badge/TestMu%20AI-Formerly%20LambdaTest-blue)](https://www.testmuai.com)
-[![Selenium](https://img.shields.io/badge/Selenium-Python-green)](https://www.testmuai.com/support/docs/selenium-automation-capabilities/)
 
 ## Getting Started
 
-If you want to add build tags to group builds in Python-selenium on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can follow the steps below. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
+If you want to add build tags to group builds in Python-selenium on TestMu AI (Formerly LambdaTest), you can follow the steps below. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
 
 Sign up for a free account at [TestMu AI](https://www.testmuai.com) and visit the [documentation](https://www.testmuai.com/support/docs/selenium-automation-capabilities/) to get started.
 
 # Steps
 
-With TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can group your test builds with Build tags. These are added for tests by setting the tags in `buildTags` capability. The code below illustrates the usage:
+With TestMu AI (Formerly LambdaTest), you can group your test builds with Build tags. These are added for tests by setting the tags in `buildTags` capability. The code below illustrates the usage:
 
 ```python
 desired_caps = {
@@ -39,15 +37,15 @@ desired_caps = {
 python lambdatest.py
 ```
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
