@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Python Selenium Build Tags Tes
 - Python 3.x and pip
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps
 
 With TestMu AI (Formerly LambdaTest), you can group your test builds with Build tags. These are added for tests by setting the tags in `buildTags` capability. The code below illustrates the usage:
